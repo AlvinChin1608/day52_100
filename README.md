@@ -21,6 +21,8 @@ The challenge involved managing XPath complexities. Specifically, dynamically id
 
 __Demo__
 
+![](https://github.com/AlvinChin1608/day52_100/blob/main/gif_demo/copy_2DCC402F-FE9B-49C3-A8FC-30D9AF319726-ezgif.com-video-to-gif-converter.gif)
+
 __Conclusion__
 Despite these challenges, this project provided valuable experience in web automation, particularly with Selenium and Python. The introduction of scrollIntoView as a strategy for accessing elements in dynamic web pages was a new and effective approach. Moving forward, I aim to refine XPath strategies and explore alternative methods for smoother automation workflows.
 
