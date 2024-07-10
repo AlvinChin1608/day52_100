@@ -80,7 +80,8 @@ class InstaFollower:
 
     def follow(self):
         try:
-            for account in self.accounts_to_follow[:3]:  # Limit to 3 accounts to follow
+            # Since the max follow is 50, test 3 follow first so we don't hit the limit. 
+            for account in self.accounts_to_follow[:3]:  
                 try:
                     # Scroll into view before clicking to ensure it's clickable
                     self.driver.execute_script("arguments[0].scrollIntoView(true);", account)
