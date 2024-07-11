@@ -38,6 +38,7 @@ Moving forward, I plan to:
   - __Enhance Documentation:__ Maintain detailed documentation within scripts to facilitate collaboration and future troubleshooting.
 
 __Conclusion__
+
 Despite these challenges, this project provided valuable experience in web automation, particularly with Selenium and Python. The introduction of scrollIntoView as a strategy for accessing elements in dynamic web pages was a new and effective approach. Moving forward, I aim to refine XPath strategies and explore alternative methods for smoother automation workflows.
 
 
