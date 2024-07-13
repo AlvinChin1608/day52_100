@@ -3,7 +3,9 @@ from instapy import smart_run
 import os
 from dotenv import load_dotenv
 """Consider using libraries specifically designed for Instagram automation like Instapy or Selenium InstaPy.  These 
-libraries often stay updated with Instagram changes and provide functionalities for following accounts."""
+libraries often stay updated with Instagram changes and provide functionalities for following accounts.
+
+Or API for better stability"""
 # Load environment variables from .env file
 load_dotenv("./vars/.env")
 
